@@ -1,5 +1,8 @@
 _repo: The-Turmoil--A-Novel_1098
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tarkington, Booth
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/169
     wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1098#The-Turmoil--A-Novel
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '1997-11-01'
 gutenberg_type: Text
